@@ -9,11 +9,11 @@ import (
 	"errors"
 	"time"
 
-	"github.com/decred/dcrd/wire"
-	"github.com/decred/slog"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/internal/config"
-	"github.com/decred/vspd/rpc"
+	"github.com/leedeternal/dcrd/wire"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/internal/config"
+	"github.com/leedeternal/vspd/rpc"
 )
 
 const (

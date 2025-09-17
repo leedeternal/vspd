@@ -9,10 +9,10 @@ import (
 	"fmt"
 
 	wallettypes "decred.org/dcrwallet/v4/rpc/jsonrpc/types"
-	"github.com/decred/dcrd/chaincfg/v3"
-	dcrdtypes "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
-	"github.com/decred/dcrd/wire"
-	"github.com/decred/slog"
+	"github.com/leedeternal/dcrd/chaincfg/v3"
+	dcrdtypes "github.com/leedeternal/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/leedeternal/dcrd/wire"
+	"github.com/leedeternal/slog"
 )
 
 var (

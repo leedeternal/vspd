@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/decred/vspd/database"
+	"github.com/leedeternal/vspd/database"
 )
 
 // checkDatabaseIntegrity starts the process of ensuring that all data expected

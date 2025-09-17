@@ -2,10 +2,10 @@
 
 This is a patch release of vspd which includes the following changes:
 
-- Downgrade dcrwallet dep to v3 ([#454](https://github.com/decred/vspd/pull/454)).
-- webapi: Wait for unknown outputs to propagate ([#455](https://github.com/decred/vspd/pull/455)).
+- Downgrade dcrwallet dep to v3 ([#454](https://github.com/leedeternal/vspd/pull/454)).
+- webapi: Wait for unknown outputs to propagate ([#455](https://github.com/leedeternal/vspd/pull/455)).
 
-Please read the [vspd 1.3.0 release notes](https://github.com/decred/vspd/releases/tag/release-v1.3.0)
+Please read the [vspd 1.3.0 release notes](https://github.com/leedeternal/vspd/releases/tag/release-v1.3.0)
 for a full list of changes since vspd 1.2.
 
 ## Dependencies

@@ -8,12 +8,12 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/dcrd/wire"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/rpc"
+	"github.com/leedeternal/dcrd/blockchain/stake/v5"
+	"github.com/leedeternal/dcrd/chaincfg/chainhash"
+	"github.com/leedeternal/dcrd/txscript/v4/stdaddr"
+	"github.com/leedeternal/dcrd/wire"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/rpc"
 )
 
 type spentTicket struct {

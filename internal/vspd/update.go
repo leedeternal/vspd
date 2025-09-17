@@ -9,8 +9,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/rpc"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/rpc"
 	"github.com/jrick/wsrpc/v2"
 )
 

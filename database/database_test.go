@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 )
 
 const (

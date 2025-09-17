@@ -10,7 +10,7 @@ import (
 	"crypto/x509"
 	"sync"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 	"github.com/jrick/wsrpc/v2"
 )
 

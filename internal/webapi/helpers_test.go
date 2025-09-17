@@ -7,7 +7,7 @@ package webapi
 import (
 	"testing"
 
-	"github.com/decred/vspd/internal/config"
+	"github.com/leedeternal/vspd/internal/config"
 )
 
 func TestIsValidVoteChoices(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 	bolt "go.etcd.io/bbolt"
 )
 

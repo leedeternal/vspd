@@ -7,7 +7,7 @@ package webapi
 import (
 	"testing"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 )
 
 func TestIndentJSON(t *testing.T) {

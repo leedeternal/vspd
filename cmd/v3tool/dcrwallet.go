@@ -14,13 +14,13 @@ import (
 	"strings"
 
 	wallettypes "decred.org/dcrwallet/v4/rpc/jsonrpc/types"
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/dcrutil/v4"
-	dcrdtypes "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/dcrd/txscript/v4/stdscript"
-	"github.com/decred/dcrd/wire"
+	"github.com/leedeternal/dcrd/blockchain/stake/v5"
+	"github.com/leedeternal/dcrd/chaincfg/v3"
+	"github.com/leedeternal/dcrd/dcrutil/v4"
+	dcrdtypes "github.com/leedeternal/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/leedeternal/dcrd/txscript/v4/stdaddr"
+	"github.com/leedeternal/dcrd/txscript/v4/stdscript"
+	"github.com/leedeternal/dcrd/wire"
 	"github.com/jrick/wsrpc/v2"
 )
 

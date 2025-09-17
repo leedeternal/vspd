@@ -1,9 +1,9 @@
 # vspd
 
-[![Build Status](https://github.com/decred/vspd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/vspd/actions)
+[![Build Status](https://github.com/leedeternal/vspd/workflows/Build%20and%20Test/badge.svg)](https://github.com/leedeternal/vspd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Go Report Card](https://goreportcard.com/badge/github.com/decred/vspd)](https://goreportcard.com/report/github.com/decred/vspd)
-[![Release](https://img.shields.io/github/release/decred/vspd.svg?style=flat-square)](https://github.com/decred/vspd/releases/latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/leedeternal/vspd)](https://goreportcard.com/report/github.com/leedeternal/vspd)
+[![Release](https://img.shields.io/github/release/leedeternal/vspd.svg?style=flat-square)](https://github.com/leedeternal/vspd/releases/latest)
 
 <img src="./docs/img/stakey.png" align="right" />
 
@@ -81,7 +81,7 @@ The config option `--webserverdebug` will:
 
 ## Issue Tracker
 
-The [integrated GitHub issue tracker](https://github.com/decred/vspd/issues)
+The [integrated GitHub issue tracker](https://github.com/leedeternal/vspd/issues)
 is used for this project.
 
 ## License

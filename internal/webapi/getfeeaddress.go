@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"decred.org/dcrwallet/v4/wallet/txrules"
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/rpc"
-	"github.com/decred/vspd/types/v3"
+	"github.com/leedeternal/dcrd/dcrutil/v4"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/rpc"
+	"github.com/leedeternal/vspd/types/v3"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 )

@@ -13,11 +13,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/decred/slog"
-	"github.com/decred/vspd/client/v4"
-	"github.com/decred/vspd/internal/config"
-	"github.com/decred/vspd/internal/signal"
-	"github.com/decred/vspd/types/v3"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/client/v4"
+	"github.com/leedeternal/vspd/internal/config"
+	"github.com/leedeternal/vspd/internal/signal"
+	"github.com/leedeternal/vspd/types/v3"
 )
 
 const (

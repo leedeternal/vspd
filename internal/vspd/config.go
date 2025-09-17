@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/vspd/internal/config"
-	"github.com/decred/vspd/internal/version"
+	"github.com/leedeternal/dcrd/dcrutil/v4"
+	"github.com/leedeternal/vspd/internal/config"
+	"github.com/leedeternal/vspd/internal/version"
 	flags "github.com/jessevdk/go-flags"
 )
 

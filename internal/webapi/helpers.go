@@ -9,14 +9,14 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/dcrec/secp256k1/v4"
-	"github.com/decred/dcrd/dcrutil/v4"
-	dcrdtypes "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
-	"github.com/decred/dcrd/wire"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/internal/config"
+	"github.com/leedeternal/dcrd/blockchain/stake/v5"
+	"github.com/leedeternal/dcrd/chaincfg/chainhash"
+	"github.com/leedeternal/dcrd/dcrec/secp256k1/v4"
+	"github.com/leedeternal/dcrd/dcrutil/v4"
+	dcrdtypes "github.com/leedeternal/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/leedeternal/dcrd/wire"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/internal/config"
 )
 
 // validConsensusVoteChoices returns an error if provided vote choices are not

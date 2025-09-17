@@ -16,9 +16,9 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/slog"
-	"github.com/decred/vspd/types/v3"
+	"github.com/leedeternal/dcrd/txscript/v4/stdaddr"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/types/v3"
 )
 
 type Client struct {

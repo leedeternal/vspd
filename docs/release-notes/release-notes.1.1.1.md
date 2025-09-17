@@ -2,7 +2,7 @@
 
 This is a patch release of vspd which includes the following changes:
 
-- Fix assignment to nil map ([#333](https://github.com/decred/vspd/pull/333)).
+- Fix assignment to nil map ([#333](https://github.com/leedeternal/vspd/pull/333)).
 
 ## Dependencies
 

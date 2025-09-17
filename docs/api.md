@@ -24,7 +24,7 @@
 - The initial version of the vspd API is version 3. This is because the first
   version of the vspd API actually represents the third iteration of VSP APIs.
   The first and second iterations of VSP API were implemented by
-  [dcrstakepool](https://github.com/decred/dcrstakepool).
+  [dcrstakepool](https://github.com/leedeternal/dcrstakepool).
 
 ## Expected usage
 

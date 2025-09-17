@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/rpc"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/rpc"
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/sessions"
 )

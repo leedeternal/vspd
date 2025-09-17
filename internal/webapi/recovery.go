@@ -15,7 +15,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 	"github.com/gin-gonic/gin"
 )
 

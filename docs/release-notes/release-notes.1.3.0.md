@@ -2,7 +2,7 @@
 
 vspd v1.3.0 contains all development work completed since v1.2.0 (June 2023).
 All commits included in this release can be viewed
-[on GitHub](https://github.com/decred/vspd/compare/release-v1.2.0...release-v1.3.0).
+[on GitHub](https://github.com/leedeternal/vspd/compare/release-v1.2.0...release-v1.3.0).
 
 ## Dependencies
 
@@ -35,13 +35,13 @@ The upgrade path assumes dcrd and dcrwallet are already version 1.8.0.
 ## Notable Changes
 
 - Fee calculation now takes the new block reward subsidy split from the activation
-  of [DCP-0012](https://github.com/decred/dcps/blob/master/dcp-0012/dcp-0012.mediawiki)
+  of [DCP-0012](https://github.com/leedeternal/dcps/blob/master/dcp-0012/dcp-0012.mediawiki)
   into consideration. In practice, this means that VSPs will begin charging
   marginally higher fees.
 - vspd will now distinguish between tickets which are "missed" and tickets which
   are "expired". Previously these tickets would be considered as a single set
   labelled "expired". This is acheived using dcrd and
-  [Golomb-Coded Set filters](https://github.com/decred/dcrd/tree/master/gcs#gcs).
+  [Golomb-Coded Set filters](https://github.com/leedeternal/dcrd/tree/master/gcs#gcs).
 - vspd 1.3.0 will perform a **one-time update of every revoked ticket in the
   database** the first time it is started. This may take a while for VSPs which
   have been active for a long time or have a large number of revoked tickets.
@@ -58,12 +58,12 @@ The upgrade path assumes dcrd and dcrwallet are already version 1.8.0.
 ### Bug Fixes
 
 - Disable spell checking on admin page input for ticket hash
-  ([#397](https://github.com/decred/vspd/pull/397)).
+  ([#397](https://github.com/leedeternal/vspd/pull/397)).
 - Duplicate transactions will no longer cause an error when calling
   sendrawtransaction
-  ([#398](https://github.com/decred/vspd/pull/398)).
+  ([#398](https://github.com/leedeternal/vspd/pull/398)).
 - Calculate missed/expired/revoked ticket ratios as percentage of all tickets,
   not just voted tickets
-  ([#417](https://github.com/decred/vspd/pull/417)).
+  ([#417](https://github.com/leedeternal/vspd/pull/417)).
 - Web server returns explicit errors intead of zero values when cache is not ready
-  ([#440](https://github.com/decred/vspd/pull/440)).
+  ([#440](https://github.com/leedeternal/vspd/pull/440)).

@@ -3,7 +3,7 @@
 vspd v1.2.0 contains all development work completed since v1.1.0 (March 2022).
 Since then, 80 commits have been produced and merged by 3 contributors.
 All commits included in this release can be viewed on GitHub
-[here](https://github.com/decred/vspd/compare/release-v1.1.0...release-v1.2.0).
+[here](https://github.com/leedeternal/vspd/compare/release-v1.1.0...release-v1.2.0).
 
 ## Dependencies
 

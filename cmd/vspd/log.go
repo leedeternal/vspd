@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 	"github.com/jrick/logrotate/rotator"
 )
 

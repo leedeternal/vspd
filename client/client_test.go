@@ -13,8 +13,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/decred/slog"
-	"github.com/decred/vspd/types/v3"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/types/v3"
 )
 
 // TestErrorDetails ensures errors returned by client.do contain adequate

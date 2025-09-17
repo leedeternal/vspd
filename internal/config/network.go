@@ -7,7 +7,7 @@ package config
 import (
 	"fmt"
 
-	"github.com/decred/dcrd/chaincfg/v3"
+	"github.com/leedeternal/dcrd/chaincfg/v3"
 )
 
 type Network struct {

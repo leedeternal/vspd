@@ -7,11 +7,11 @@ package webapi
 import (
 	"errors"
 
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/hdkeychain/v3"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/slog"
-	"github.com/decred/vspd/database"
+	"github.com/leedeternal/dcrd/chaincfg/v3"
+	"github.com/leedeternal/dcrd/hdkeychain/v3"
+	"github.com/leedeternal/dcrd/txscript/v4/stdaddr"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/database"
 )
 
 type addressGenerator struct {

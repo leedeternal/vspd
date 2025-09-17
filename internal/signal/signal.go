@@ -10,7 +10,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/decred/slog"
+	"github.com/leedeternal/slog"
 )
 
 // interruptSignals defines the default signals to catch in order to do a proper

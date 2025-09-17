@@ -18,11 +18,11 @@ import (
 	"testing"
 	"time"
 
-	dcrdtypes "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
-	"github.com/decred/slog"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/internal/config"
-	"github.com/decred/vspd/types/v3"
+	dcrdtypes "github.com/leedeternal/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/internal/config"
+	"github.com/leedeternal/vspd/types/v3"
 	"github.com/gin-gonic/gin"
 )
 

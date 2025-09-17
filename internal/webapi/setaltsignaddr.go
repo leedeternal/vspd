@@ -7,11 +7,11 @@ package webapi
 import (
 	"time"
 
-	dcrdtypes "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/rpc"
-	"github.com/decred/vspd/types/v3"
+	dcrdtypes "github.com/leedeternal/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/leedeternal/dcrd/txscript/v4/stdaddr"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/rpc"
+	"github.com/leedeternal/vspd/types/v3"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 )

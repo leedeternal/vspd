@@ -2,9 +2,9 @@
 
 This is a patch release of vspd which includes the following changes:
 
-- webapi: Add missed tickets to admin page ([#451](https://github.com/decred/vspd/pull/451)).
+- webapi: Add missed tickets to admin page ([#451](https://github.com/leedeternal/vspd/pull/451)).
 
-Please read the [vspd 1.3.0 release notes](https://github.com/decred/vspd/releases/tag/release-v1.3.0)
+Please read the [vspd 1.3.0 release notes](https://github.com/leedeternal/vspd/releases/tag/release-v1.3.0)
 for a full list of changes since vspd 1.2.
 
 ## Dependencies

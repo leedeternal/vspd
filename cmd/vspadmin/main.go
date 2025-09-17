@@ -10,12 +10,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/hdkeychain/v3"
-	"github.com/decred/slog"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/internal/config"
-	"github.com/decred/vspd/internal/vspd"
+	"github.com/leedeternal/dcrd/dcrutil/v4"
+	"github.com/leedeternal/dcrd/hdkeychain/v3"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/internal/config"
+	"github.com/leedeternal/vspd/internal/vspd"
 	"github.com/jessevdk/go-flags"
 )
 

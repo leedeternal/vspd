@@ -12,7 +12,7 @@ import (
 	"io"
 	"net/http"
 
-	dcrdtypes "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
+	dcrdtypes "github.com/leedeternal/dcrd/rpc/jsonrpc/types/v4"
 )
 
 type txns struct {

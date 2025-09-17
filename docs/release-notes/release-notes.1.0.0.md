@@ -1,7 +1,7 @@
 # vspd 1.0.0
 
 This is the initial release of vspd which is intended to replace
-[dcrstakepool](https://github.com/decred/dcrstakepool) as the reference
+[dcrstakepool](https://github.com/leedeternal/dcrstakepool) as the reference
 implementation of a Decred Voting Service Provider.
 
 The [Decred blog](https://blog.decred.org/2020/06/02/A-More-Private-Way-to-Stake/)
@@ -32,5 +32,5 @@ The key features offered by this initial version are:
   - A hidden admin page allows VSP operators to search for registered tickets
     and download database backups.
 
-Please review the [project README](https://github.com/decred/vspd) for extended
+Please review the [project README](https://github.com/leedeternal/vspd) for extended
 documentation, including how to use the API and a detailed deployment guide.

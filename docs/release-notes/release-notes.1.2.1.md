@@ -2,7 +2,7 @@
 
 This is a patch release of vspd which includes the following changes:
 
-- rpc: Ignore another "duplicate tx" error ([#398](https://github.com/decred/vspd/pull/398)).
+- rpc: Ignore another "duplicate tx" error ([#398](https://github.com/leedeternal/vspd/pull/398)).
 
 ## Dependencies
 

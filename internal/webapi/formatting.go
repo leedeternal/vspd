@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/slog"
+	"github.com/leedeternal/dcrd/dcrutil/v4"
+	"github.com/leedeternal/slog"
 	"github.com/dustin/go-humanize"
 )
 

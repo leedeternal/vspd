@@ -13,9 +13,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/vspd/rpc"
-	"github.com/decred/vspd/types/v3"
+	"github.com/leedeternal/dcrd/blockchain/stake/v5"
+	"github.com/leedeternal/vspd/rpc"
+	"github.com/leedeternal/vspd/types/v3"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 	"github.com/gorilla/sessions"

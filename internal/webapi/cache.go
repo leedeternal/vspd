@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/decred/slog"
-	"github.com/decred/vspd/database"
-	"github.com/decred/vspd/rpc"
+	"github.com/leedeternal/slog"
+	"github.com/leedeternal/vspd/database"
+	"github.com/leedeternal/vspd/rpc"
 	"github.com/dustin/go-humanize"
 )
 
